@@ -1,7 +1,7 @@
 # JavaScript Stack from Scratch
 
-[![Build Status](https://img.shields.io/travis/rrjoson/js-stack-from-scatch.svg?style=flat-square)](https://travis-ci.org/rrjoson/js-stack-from-scatch)
-[![Coverage Status](https://img.shields.io/coveralls/rrjoson/js-stack-from-scatch.svg?style=flat-square)](https://coveralls.io/github/rrjoson/js-stack-from-scatch?branch=master)
+[![Build Status](https://img.shields.io/travis/rrjoson/js-stack-from-scratch.svg?style=flat-square)](https://travis-ci.org/rrjoson/js-stack-from-scratch)
+[![Coverage Status](https://img.shields.io/coveralls/rrjoson/js-stack-from-scratch.svg?style=flat-square)](https://coveralls.io/github/rrjoson/js-stack-from-scratch?branch=master)
 
 [![React](/img/react-padded-90.png)](https://facebook.github.io/react/)
 [![Redux](/img/redux-padded-90.png)](http://redux.js.org/)
