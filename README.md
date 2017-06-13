@@ -1,10 +1,7 @@
 # JavaScript Stack from Scratch
 
-[![Build Status](https://travis-ci.org/verekia/js-stack-from-scratch.svg?branch=master)](https://travis-ci.org/verekia/js-stack-from-scratch)
-[![Release](https://img.shields.io/github/release/verekia/js-stack-from-scratch.svg?style=flat-square)](https://github.com/verekia/js-stack-from-scratch/releases)
-[![Dependencies](https://img.shields.io/david/verekia/js-stack-boilerplate.svg?style=flat-square)](https://david-dm.org/verekia/js-stack-boilerplate)
-[![Dev Dependencies](https://img.shields.io/david/dev/verekia/js-stack-boilerplate.svg?style=flat-square)](https://david-dm.org/verekia/js-stack-boilerplate?type=dev)
-[![Gitter](https://img.shields.io/gitter/room/js-stack-from-scratch/Lobby.svg?style=flat-square)](https://gitter.im/js-stack-from-scratch/)
+[![Build Status](https://img.shields.io/travis/rrjoson/js-stack-from-scatch.svg?style=flat-square)](https://travis-ci.org/rrjoson/js-stack-from-scatch)
+[![Coverage Status](https://img.shields.io/coveralls/rrjoson/js-stack-from-scatch.svg?style=flat-square)](https://coveralls.io/github/rrjoson/js-stack-from-scatch?branch=master)
 
 [![React](/img/react-padded-90.png)](https://facebook.github.io/react/)
 [![Redux](/img/redux-padded-90.png)](http://redux.js.org/)
