@@ -12,3 +12,9 @@
 [![Yarn](/img/yarn-padded-90.png)](https://yarnpkg.com/)
 [![Webpack](/img/webpack-padded-90.png)](https://webpack.github.io/)
 [![Bootstrap](/img/bootstrap-padded-90.png)](http://getbootstrap.com/)
+
+# How to run locally
+
+- Run `yarn install`
+- Run `yarn prod:build`
+- Run `yarn prod:start`
